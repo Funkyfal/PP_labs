@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guiFrame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/guiFrame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
